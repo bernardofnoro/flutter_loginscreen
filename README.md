@@ -1,6 +1,8 @@
 # flutter_loginscreen
 
 A new Flutter project.
+Login screen with Firebase Auth
+![flutter](misc/flutter.png)
 
 ## Getting Started
 
